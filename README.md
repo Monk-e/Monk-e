@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! I'm Ryan Leo 👋
 
-<!--
-**Monk-e/Monk-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Front-End Developer with a passion for building responsive, user-centric web interfaces.
 
-Here are some ideas to get you started:
+### 🔭 Currently working on:
+* Rebuilding and optimizing my portfolio with modern React and CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning:
+* Strengthening my knowledge of React hooks and state management.
+
+### 💼 Portfolio & Projects:
+* **[Cloud Seer Weather App](https://monk-e.github.io/The-Cloud-Seer/)**: A real-time weather dashboard built with HTML, CSS, and JavaScript.
+
+### 📫 How to reach me:
+* **Email**: ryanleo345@gmail.com
+* **LinkedIn**: [ryan-leo345](https://www.linkedin.com/in/ryan-leo345/)
+
+### ⚡ Fun fact:
+* I published research on Brain-Computer Interface systems in the International Journal on Emerging Research Areas (IJERA)!
